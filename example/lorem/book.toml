@@ -1,0 +1,6 @@
+[meta]
+title = "Lorem ipsum"
+authors= ["Lipsum", "Terah"]
+
+[content]
+root = "root.vel"
